@@ -1,3 +1,3 @@
 # DesignStuff
 
-<img src="Desktop\Candyland tycoon.png" width="100%">
+<img src="C:\Gimp\Candyland tycoon.png" width="100%">
