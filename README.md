@@ -1,3 +1,3 @@
 # DesignStuff
 
-<img src="C:\Gimp\Candyland tycoon.png" width="100%">
+<img src="https://github.com/Bladish/DesignStuff/issues/2" width="100%">
